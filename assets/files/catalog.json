@@ -1,0 +1,55 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": " iphone 12",
+            "desc": "phone are alwyas sda ds aa dsd",
+            "price": 1000,
+            "color": "#33505a",
+            "image":
+"https://st2.depositphotos.com/16117492/42488/v/380/depositphotos_424888920-stock-illustration-uzbekistan-tashkent-november-2020-grey.jpg"                
+          
+        },
+        {
+            "id": 2,
+            "name": " iphone 12",
+            "desc": "phone are alwyas sda ds aa dsd",
+            "price": 100,
+            "color": "#33505a",
+            "image":
+"https://st2.depositphotos.com/16117492/42488/v/380/depositphotos_424888920-stock-illustration-uzbekistan-tashkent-november-2020-grey.jpg"
+        },
+        {
+            "id": 3,
+            "name": " iphone 12",
+            "desc": "phone",
+            "price": 1050,
+            "color": "#33505a",
+            "image":
+                "https://images.unsplash.com/photo-1617997455403-41f333d44d5b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwMTIlMjBwcm8lMjBtYXh8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+                
+          
+        },
+        {
+            "id": 4,
+            "name": " iphone 12",
+            "desc": "phone are alwyas sda ds aa dsd",
+            "price": 100,
+            "color": "#33505a",
+            "image":
+            "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixid=MnwxMjA3fDF8MHxzZWFyY2h8OHx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"                
+          
+        },
+        {
+            "id": 5,
+            "name": " iphone 12",
+            "desc": "phone",
+            "price": 1050,
+            "color": "#33505a",
+            "image":
+                "https://images.unsplash.com/photo-1617997455403-41f333d44d5b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwMTIlMjBwcm8lMjBtYXh8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+                
+          
+        }
+    ]
+}
